@@ -1,0 +1,25 @@
+{
+  "name": "02-bases",
+  "version": "0.0.1",
+  "description": "Esta es mi primera aplicacion",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " node src/app.js ",
+    "start:dev": "echo 'Hola mundo desde dev' ",
+    "start:stag": "echo 'Hola mundo desde dev' "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bonino04/Node2.githttps:.git"
+  },
+  "author": "Gonzalo Bonino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bonino04/Node2.githttps:/issues"
+  },
+  "homepage": "https://github.com/Bonino04/Node2.githttps:#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
